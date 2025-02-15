@@ -1,3 +1,7 @@
+# Snapshots of code
+
+
+## Visualize potential of a 2D charge distribution
 
 ```
 packageFile = 
